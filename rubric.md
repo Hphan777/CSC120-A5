@@ -30,32 +30,32 @@ ___YES__ 1 pt: The `Car` class has a `printManifest()` method that prints a nice
 
 ### Level 3 (3 pts)
 
-__YES___ 1 pt: The `Passenger` class uses appropriate methods from the `Car` class to implement its `boardCar(...)` and `getOffCar(...)` methods
+__YES__ 1 pt: The `Passenger` class uses appropriate methods from the `Car` class to implement its `boardCar(...)` and `getOffCar(...)` methods
 
-__YES___ 1 pt: The `Train` class has all expected attributes / relationships with the other classes
+__YES__ 1 pt: The `Train` class has all expected attributes / relationships with the other classes
 
-___yes__ 1 pt: The `Train` class has all expected methods, making use of methods from other classes as appropriate
+___YES__ 1 pt: The `Train` class has all expected methods, making use of methods from other classes as appropriate
 
 
 
 ## General Items:
 
-__NO___ 4 pts: Programs compile without errors or warnings
+___YES__ 4 pts: Programs compile without errors or warnings
 
-__PART___ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+__YES__ 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-___YES_ 2 pt: Complies with style guidelines (missing items 1 pt each):
+__YES__ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
-      _____ Classes & class members all have Javadoc header comments
+      __YES___ Classes & class members all have Javadoc header comments
 
-      _____ Clear and consistent indentation of bracketed sections
+      __YES__ Clear and consistent indentation of bracketed sections
 
-      _____ Adheres to Java conventions on naming & capitalization
+      __YES___ Adheres to Java conventions on naming & capitalization
 
-      _____ Methods & variables all have clear and accurate names
+      __YES__ Methods & variables all have clear and accurate names
 
-      _____ Methods avoid confusing side effects
+      __YES___ Methods avoid confusing side effects
 
-__YES___ 1 pt: All required files included with submission (including completed `rubric.md` file)
+__YES__ 1 pt: All required files included with submission (including completed `rubric.md` file)
 
-__YES___ 1 pt: `reflection.md` contains your reflection on the assignment
+__YES__ 1 pt: `reflection.md` contains your reflection on the assignment

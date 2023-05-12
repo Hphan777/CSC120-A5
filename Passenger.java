@@ -23,7 +23,18 @@ public class Passenger {
             System.err.println(e.getMessage()); // Passenger wasn't actually onboard.
         }
     }
+
+    public String getName(){
+        return this.name;
     }
+
+    // public static void main(String args[]){
+    //     Car myCar = new Car(20);
+    //     Passenger myPassenger = new Passenger("Hau");
+    //     myCar.addPassenger(myPassenger);
+    //     myCar.printManifest();
+   // }
+}
        
     
 
